@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otonaeye.github.io/Jmh/sitemap_index.txt
+Sitemap: https://otonaeye.github.io/QJs/sitemap_index.txt
+Sitemap: https://otonaeye.github.io/cnx/sitemap_index.txt
+Sitemap: https://otonaeye.github.io/pLJ/sitemap_index.txt
